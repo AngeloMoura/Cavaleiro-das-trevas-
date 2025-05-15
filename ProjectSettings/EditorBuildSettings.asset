@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SelecionaPersonagems.unity
+    guid: 63cb592fbe240c740af6c663eb4b83c8
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 002ad2a3c3c5a014094d02c86412dc5f
+  - enabled: 1
+    path: Assets/Scenes/MortoVivo.unity
+    guid: bc8d28277173f414bb2d286f6d97c14d
+  - enabled: 1
+    path: Assets/Scenes/Guerreiro.unity
+    guid: a17feaf02a9bf9a43a9cb2a5b965d5ac
+  - enabled: 1
+    path: Assets/Scenes/EscolhaDirecaoGuerreiro.unity
+    guid: 84b27240091c1c442adfa1dc94c2415c
+  - enabled: 1
+    path: Assets/Scenes/CaminhoDaEsquerda.unity
+    guid: e0f8bb10da23bbc43b7dcf03743bb1ee
+  - enabled: 1
+    path: Assets/Scenes/CaminhoDaDireita.unity
+    guid: 4d4ff6487644ce24fa5c6f1ed25f7892
+  - enabled: 1
+    path: Assets/cavaleiros amaldicoados.unity
+    guid: 44ffb327c3308f7429d03386d0dcd3ef
+  - enabled: 1
+    path: Assets/Scenes/Assassino.unity
+    guid: c7ab785b59a23624b884e76b2a241229
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/VocePerdeu.unity
+    guid: a8ae10bede67c024bafb91102bc8ab36
+  - enabled: 1
+    path: Assets/Scenes/Venceu.unity
+    guid: e65cb37befc15614d92c9120180fd34d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
